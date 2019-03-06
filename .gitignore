@@ -20,5 +20,6 @@ yarn-error.log*
 *.sln
 *.sw*
 
-# lxr.json contains an API Token
+# lxr.json contains an API Token DO NOT COMMIT IT TO GITHUB
+# use .gitignore
 lxr.json
