@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <Report msg="Welcome to Your Vue LIVE.js App"/>
+    <Report msg="Application Cost Pie Chart"/>
   </div>
 </template>
 
