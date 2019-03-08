@@ -7,11 +7,13 @@
 
 <script>
 import Report from './components/Report.vue'
+import Query from './components/Query.vue'
 
 export default {
   name: 'app',
   components: {
-    Report
+    Report,
+    Query
   }
 }
 </script>
